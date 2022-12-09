@@ -1,0 +1,15 @@
+.VideoGadget {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+
+    .video, .controls {
+        display: flex;
+        flex-direction: row;
+        gap: 4px;
+    }
+
+    .fps-counter {
+        display: block;
+    }
+}
