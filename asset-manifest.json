@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/videohr/static/css/main.72bfd0fc.css",
+    "main.js": "/videohr/static/js/main.8b2204c2.js",
+    "static/js/422.8a311814.chunk.js": "/videohr/static/js/422.8a311814.chunk.js",
+    "index.html": "/videohr/index.html",
+    "main.72bfd0fc.css.map": "/videohr/static/css/main.72bfd0fc.css.map",
+    "main.8b2204c2.js.map": "/videohr/static/js/main.8b2204c2.js.map",
+    "422.8a311814.chunk.js.map": "/videohr/static/js/422.8a311814.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72bfd0fc.css",
+    "static/js/main.8b2204c2.js"
+  ]
+}
