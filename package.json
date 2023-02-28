@@ -1,5 +1,6 @@
 {
   "name": "videothing",
+  "homepage": "https://bsmith.github.io/videohr",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
