@@ -1,5 +1,7 @@
 # Video Heartrate Thing
 
+STATUS: This is in progress.  I've have working code in Mathematica, and I'm just starting on working on the JavaScript version.
+
 This project aims to demonstrate real-time extraction of a person's heart-rate from live video of their face.
 
 [Steve Mould](https://www.youtube.com/@SteveMould) made a [YouTube video](https://www.youtube.com/watch?v=BFZxlauizx0) with [Andrew Steele](https://github.com/ajsteele) demonstrating how small amplitude variations in a video of a face could be amplified to extract heart rate information.  Their code is [available on GitHub](https://github.com/ajsteele/faceHR).
